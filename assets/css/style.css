@@ -25,6 +25,27 @@ body {
     padding-top:30px;
     padding-bottom:50px;
 }
+.image--medium{
+    width: 90px;
+    height: 90px;
+    box-sizing: border-box;
+}
+.image{
+    object-fit: cover;
+    border-radius: 4px;
+}
+.responsive-lg{
+    flex-direction: column;
+}
+.row{
+    display: flex;
+    padding: 5px;
+    width: 100%;
+}
+.left{
+    float:left;
+    display: flex;
+}
 /*=====================================
   NAVBAR STYLES 
     ===================================*/

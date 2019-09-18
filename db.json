@@ -1,5 +1,31 @@
 {
-    "users": [],
-    "post": [],
-    "comment": []
-  }
+  "users": [
+    {
+      "fullname": "Ogundare",
+      "username": "user1",
+      "email": "tp3hero@gmail.com",
+      "password": "12345",
+      "is_admin": "true",
+      "id": 1
+    }
+  
+  
+    
+  ],
+  "admin":[
+    {
+      "email": "tp3hero@gmail.com",
+      "password": "123456"
+    }
+      
+  ],
+  "post": [
+    {
+      "imageUrl": "imageUrl",
+      "title": "title",
+      "location":"location",
+      "description": "description"
+    }
+  ],
+  "comment": []
+}
