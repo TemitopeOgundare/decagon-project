@@ -8,19 +8,16 @@
       "is_admin": "true",
       "id": 1
     }
-  
-  
-    
   ],
   "admin":[
     {
       "email": "tp3hero@gmail.com",
       "password": "123456"
     }
-      
   ],
   "post": [
     {
+      "id": 0,
       "imageUrl": "imageUrl",
       "title": "title",
       "location":"location",
